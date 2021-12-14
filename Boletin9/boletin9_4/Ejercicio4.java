@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
  */
 public class Ejercicio4 {
     
-    public void calcularMultiplo(){
+    public void calcularMultiplicacion(){
         
         String numero;
         
@@ -22,7 +22,7 @@ public class Ejercicio4 {
         
         while(num1>0){
             
-            for(int i=1;i<=1;i++){
+            for(int i=1;i<=10;i++){
                 
                 System.out.println(num1+" x "+i+"="+num1*i);
             }
