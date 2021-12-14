@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package boletin11_1;
+package boletin11_2;
 
 import javax.swing.JOptionPane;
 import java.util.Random;
