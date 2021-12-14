@@ -3,20 +3,20 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package boletin11_2;
+package boletin17;
 
 /**
  *
  * @author dam1
  */
-public class Boletin11_2 {
+public class Boletin17 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Ejercicio2 obx = new Ejercicio2();
-        obx.ej2();
+        Ejercicio1 obj = new Ejercicio1();
+        obj.darNota();
     }
     
 }
