@@ -123,6 +123,8 @@ public class Metodos {
                 escribir.println(l.getNombreLibro() + " " + l.getAutor() + " " + l.getPrecio() + " " + l.getUnidades());
             }
 
+            System.out.println("Hola");
+
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } catch (IOException e) {
